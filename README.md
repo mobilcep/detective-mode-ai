@@ -3,7 +3,7 @@
 > [!TIP]
 > **✅ Bu konsept artık canlı!** 2024'te burada fikir olarak yazılan Detective Mode, bugün **[Numex AI](https://www.numexai.com.tr)** içinde **Detective Mode™** olarak çalışıyor: birden fazla model aynı soruyu bağımsız yanıtlar, bir hakem model cevapları karşılaştırır ve en sağlam yanıtı sunar.
 >
-> 👉 Dene: **[numexai.com.tr](https://www.numexai.com.tr)** · Ekosistem: **[numex_nedir](https://github.com/numexai/numex_nedir)** · Ana depo: **[mobilcep/numex](https://github.com/numexai/numex)** · Ansiklopedi: **[Numexpedia](https://pedia.numexai.com.tr)**
+> 👉 Dene: **[numexai.com.tr](https://www.numexai.com.tr)** · Ekosistem: **[numex_nedir](https://github.com/numexai/numex_nedir)** · Ana depo: **[numexai/numex](https://github.com/numexai/numex)** · Ansiklopedi: **[Numexpedia](https://pedia.numexai.com.tr)**
 
 ---
 
