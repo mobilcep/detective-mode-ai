@@ -29,18 +29,18 @@ Detective Mode, tıpkı bir dedektifin farklı ipuçlarını bir araya getirerek
 ```
 Kullanıcı Sorusu
     ↓
-    ├─→ Model A (Hızlı Düşünen - örn: GPT-4 Turbo)
+    ├─→ Model A (Hızlı Düşünen)
     │   └─→ Çözüm A (Hız odaklı, pratik yaklaşım)
     │
-    ├─→ Model B (Derin Düşünen - örn: Claude Sonnet)
+    ├─→ Model B (Derin Düşünen)
     │   └─→ Çözüm B (Detaylı analiz, kapsamlı yaklaşım)
     │
-    └─→ Model C (Alternatif Bakış - örn: Gemini Pro)
+    └─→ Model C (Alternatif Bakış)
         └─→ Çözüm C (Yaratıcı, farklı perspektif)
         
     ↓↓↓ Tüm çözümler hakeme gider ↓↓↓
     
-⚖️ Hakem AI (Meta-değerlendirme - örn: Claude Opus / GPT-4)
+⚖️ Hakem AI (Meta-değerlendirme)
     └─→ Her çözümü analiz eder
     └─→ Güçlü/zayıf yönleri değerlendirir
     └─→ En iyi çözümü seçer
@@ -56,32 +56,32 @@ Kullanıcı Sorusu
 
 **Soru:** "Bu React componentinde neden memory leak oluşuyor?"
 
-**Model A (GPT-4 Turbo):**  
+**Model A (Hızlı Düşünen):**  
 "useEffect'te cleanup function eksik. Event listener kaldırılmalı."  
 *Güven: %85 | Hız: 2 saniye*
 
-**Model B (Claude Sonnet):**  
+**Model B (Derin Düşünen):**  
 "Hem cleanup eksik hem de dependency array yanlış. Component her render'da yeniden subscribe oluyor."  
 *Güven: %92 | Hız: 4 saniye*
 
-**Model C (Gemini Pro):**  
+**Model C (Alternatif Bakış):**  
 "WeakMap kullanarak memory leak'i önleyebilir veya useMemo ile optimize edebilirsiniz."  
 *Güven: %78 | Hız: 3 saniye*
 
-**⚖️ Hakem (Claude Opus):**  
+**⚖️ Hakem:**  
 "Model B'nin analizi en kapsamlı. Hem cleanup hem dependency sorununu tespit etmiş. Model C'nin önerisi alternatif ama ana sorunu çözmüyor. **Kazanan: Model B**"
 
 ### Örnek 2: Mimari Karar
 
 **Soru:** "E-ticaret sisteminde ödeme servisi microservice mi olmalı monolith mu?"
 
-**Model A (GPT):**  
+**Model A:**  
 "Microservice - Ölçeklenebilirlik ve bağımsız deployment için."
 
-**Model B (Claude):**  
+**Model B:**  
 "Başlangıçta monolith, yeterli büyüklüğe ulaşınca ayırın. Erken optimizasyon tuzağına düşmeyin."
 
-**Model C (Gemini):**  
+**Model C:**  
 "Hybrid yaklaşım: Kritik ödeme işlemleri izole modül, ama aynı codebase içinde."
 
 **⚖️ Hakem:**  
@@ -138,9 +138,9 @@ Detective Mode aşağıdaki prensipleri birleştirir:
 
 ### 🧬 Düşünce Çeşitliliği
 Farklı AI modelleri farklı yaklaşımlar getirir:
-- **GPT:** Geniş bilgi tabanı, hızlı sentez
-- **Claude:** Detaylı analiz, güvenlik odaklı
-- **Gemini:** Çok-modlu düşünme, yaratıcı çözümler
+- **Hızlı model:** Geniş bilgi tabanı, hızlı sentez
+- **Derin düşünen model:** Detaylı analiz, güvenlik odaklı
+- **Alternatif model:** Çok-modlu düşünme, yaratıcı çözümler
 
 ### 🏆 Rekabetçi Doğruluk
 Modeller arasındaki "rekabet" kaliteyi artırır:
@@ -300,9 +300,7 @@ Kullanmak, değiştirmek ve dağıtmak serbesttir. Atıf yapılması takdir edil
 
 Bu proje aşağıdaki toplulukların ve teknolojilerin desteğiyle mümkün oldu:
 
-- Anthropic (Claude AI)
-- OpenAI (GPT)
-- Google (Gemini)
+- Büyük dil modeli geliştiren ekipler
 - Türk AI ve yazılım topluluğu
 - Açık kaynak katkıcıları
 
