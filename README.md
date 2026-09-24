@@ -13,7 +13,7 @@
 > Yapay zekanın geleceği: Modellerin birbirleriyle tartıştığı, hakemin en iyi cevabı seçtiği yeni nesil AI sistemi
 
 [![Durum](https://img.shields.io/badge/durum-konsept-blue)]()
-[![Lisans](https://img.shields.io/badge/lisans-MIT-green)]()
+[![Lisans](https://img.shields.io/badge/lisans-T%C3%BCm%20haklar%C4%B1%20sakl%C4%B1d%C4%B1r-lightgrey)](LICENSE)
 [![Yıl](https://img.shields.io/badge/yıl-2024-orange)]()
 [![Türkiye](https://img.shields.io/badge/made_in-Turkey-red)]()
 
@@ -292,7 +292,7 @@ Bu sistem şu prensipler ve metodolojilerden ilham almıştır:
 
 ## 📜 Lisans
 
-MIT Lisansı - Telif Hakkı (c) 2024 Nurullah Şahin
+Telif Hakkı (c) 2024-2026 Nurullah Şahin. Tüm hakları saklıdır. Ayrıntılar: [LICENSE](LICENSE)
 
 Kullanmak, değiştirmek ve dağıtmak serbesttir. Atıf yapılması takdir edilir.
 
