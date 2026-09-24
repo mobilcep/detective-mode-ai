@@ -1,3 +1,12 @@
+<p align="center"><img src="gorseller/banner.png" alt="Detective Mode™ — Tek model yanılabilir. Üçü birden yanılmaz." width="100%"></p>
+
+> [!TIP]
+> **✅ Bu konsept artık canlı!** 2024'te burada fikir olarak yazılan Detective Mode, bugün **[Numex AI](https://www.numexai.com.tr)** içinde **Detective Mode™** olarak çalışıyor: birden fazla model aynı soruyu bağımsız yanıtlar, bir hakem model cevapları karşılaştırır ve en sağlam yanıtı sunar.
+>
+> 👉 Dene: **[numexai.com.tr](https://www.numexai.com.tr)** · Ekosistem: **[numex_nedir](https://github.com/mobilcep/numex_nedir)** · Ana depo: **[mobilcep/numex](https://github.com/mobilcep/numex)** · Ansiklopedi: **[Numexpedia](https://pedia.numexai.com.tr)**
+
+---
+
 # detective-mode-ai
 # 🕵️ Detective Mode - Çok-Modelli Yapay Zeka Tartışma Sistemi
 
